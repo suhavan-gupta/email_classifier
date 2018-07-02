@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/suhavangupta/Documents/classifier/email_classifier/logs/model.ckpt"
+all_model_checkpoint_paths: "/Users/suhavangupta/Documents/classifier/email_classifier/logs/model.ckpt"
